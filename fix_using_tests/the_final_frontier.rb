@@ -14,4 +14,3 @@ def engage
   #star_date = generate_star_date
 end
 
-binding.pry
