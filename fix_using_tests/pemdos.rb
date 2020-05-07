@@ -7,6 +7,6 @@ def snake_it_up(string)
     string
   end
 end
-
+string= "surprise!"
 
 binding.pry
